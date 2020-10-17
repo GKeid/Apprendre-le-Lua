@@ -4,3 +4,5 @@ Lien d'installation de Garry's Mod : https://store.steampowered.com/app/4000/Gar
 Lien d'installation de Visual Studio Code : https://code.visualstudio.com/
 
 Lien d'installation de Sublime Text : https://www.sublimetext.com/ 
+
+Lien vers le Garry's Mod Wiki : https://wiki.facepunch.com/gmod/
