@@ -5,21 +5,23 @@
 
 3- Les Variables
 
-4- Les conditions 
+4- Les tables
 
-5- Les Boucles for / while
+5- Les conditions 
 
-6- Les fonctions
+6- Les Boucles for / while
 
-7- Les hooks
+7- Les fonctions
 
-8- Exercices
+8- Les hooks
 
-9- Créer une entité de base
+9- Exercices
 
-10- Les fonctions sur une entité
+10- Créer une entité de base
 
-11- Les Meta-fonctions
+11- Les fonctions sur une entité
+
+12- Les Meta-fonctions
 
 
 ------------------------------------------------
